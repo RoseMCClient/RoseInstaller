@@ -1,0 +1,2 @@
+# RoseInstaller
+The RoseClient Installer.
